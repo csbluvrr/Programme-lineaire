@@ -1,2 +1,2 @@
 # Programme-lineaire
-code python pour le programme lineaire
+Annexes pour le programme lineair
