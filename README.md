@@ -1,2 +1,2 @@
 # Programme-lineaire
-Annexes pour le programme lineair
+Annexes pour le programme lineaire
